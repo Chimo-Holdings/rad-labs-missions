@@ -1,0 +1,18 @@
+{
+    "name": "rad-labs-missions",
+    "version": "1.0.0",
+    "description": "RAD Labs Holiday Quest tutorials for the micro:bit MakeCode editor",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "m01-name-scroller-v1.md",
+        "m02-led-art-v1.md"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
