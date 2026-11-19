@@ -18,3 +18,4 @@ https://makecode.microbit.org/#tutorial:https://github.com/Chimo-Holdings/rad-la
 | --- | --- | --- |
 | 01 Name Scroller | m01-name-scroller-v1.md | key + 11 |
 | 02 LED Art | m02-led-art-v1.md | key × 2 + 7 |
+| Weekly 01 Platform Jumper | weekly-01-platform-v1.md | key × 2 + 31 (shown at start) |

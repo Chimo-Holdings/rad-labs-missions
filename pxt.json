@@ -9,7 +9,8 @@
         "main.ts",
         "README.md",
         "m01-name-scroller-v1.md",
-        "m02-led-art-v1.md"
+        "m02-led-art-v1.md",
+        "weekly-01-platform-v1.md"
     ],
     "supportedTargets": [
         "microbit"
