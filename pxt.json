@@ -13,7 +13,8 @@
         "weekly-01-platform-v1.md",
         "m01-name-scroller-v2.md",
         "m02-led-art-v2.md",
-        "weekly-01-platform-v2.md"
+        "weekly-01-platform-v2.md",
+        "m91-zz-publish-test-v1.md"
     ],
     "supportedTargets": [
         "microbit"
